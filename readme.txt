@@ -1,1 +1,2 @@
-this is readme file`
+this is readme file
+create a new branch is quick & simple`
